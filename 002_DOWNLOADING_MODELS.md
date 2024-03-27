@@ -10,6 +10,7 @@ As of the time this document was created, the default installation of Stable Dif
 | Stable Diffusion XL refiner | denoising model  |   https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors?download=true             |
 | epiCRealism XL |  | https://civitai.com/api/download/models/373969 |
 | Juggernaut XL | | https://civitai.com/api/download/models/357609 | 
+| Moxie Diffusion XL | | https://civitai.com/api/download/models/407264 |
 
 ## SD 1.5
 
