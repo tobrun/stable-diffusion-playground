@@ -20,3 +20,5 @@ Once all the extensions have been installed, you can either select Apply and res
 There are a variety of extensions that also solves this requirement (eg. [stylez](https://github.com/javsezlol1/stylez)) but for simplicity, I'm covering how to use a `styles.csv` file to populate the style selector box in the standard AUTOMATIC1111 UI. You can search the web to find a collection of premade styles (eg. on [reddit](https://www.reddit.com/r/StableDiffusion/comments/11mkefu/is_there_a_collection_of_styles_for_web_ui_i/)) and after downloading the file, you can place it under the root directory of your `stable-diffusion-webui` installation.
 
 ![Style selector AUTOMATIC1111](res/screenshots/AUTOMATIC1111_style_selector.png "AUTOMATIC1111 Style selector")
+
+Alternatively you can configure: `StyleSelectorXL` in extensions.

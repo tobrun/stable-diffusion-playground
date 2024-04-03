@@ -29,7 +29,7 @@ Configure 2 control nets. The first is for embeddings:
 - set Control weight to `0.5`
 - set preprocessor resolution to `1024` (matching your original image)
 
-![Screenshot AUTOMATIC1111 GUI](res/screenshots/AUTOMATIC1111_INSTANT_ID_1.png "AUTOMATIC111 GUI")
+![Screenshot AUTOMATIC1111 GUI](res/screenshots/AUTOMATIC111_INSTANT_ID_1.png "AUTOMATIC111 GUI")
 
 The second is is for keypoints:
 
@@ -41,9 +41,6 @@ The second is is for keypoints:
 - set Control weight to `0.5`
 - set Ending Control Step to `0.25`
 - set preprocessor resolution to `1024` (matching your original image)
-
-![Screenshot AUTOMATIC1111 GUI](res/screenshots/AUTOMATIC1111_INSTANT_ID_2.png "AUTOMATIC111 GUI")
-
 
 ## Configuring the generation
 
